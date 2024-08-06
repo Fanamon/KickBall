@@ -1,0 +1,16 @@
+{
+    "name": "Assembly-InputSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf12577bad090394d9fa772ccbbcb590"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

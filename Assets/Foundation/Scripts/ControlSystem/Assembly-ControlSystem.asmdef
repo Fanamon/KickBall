@@ -1,0 +1,18 @@
+{
+    "name": "Assembly-ControlSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e546ceab914a43e43b154bf990630e1f",
+        "GUID:9e92f3bf44a8bbc4f8e8fed01997b879",
+        "GUID:bf12577bad090394d9fa772ccbbcb590"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

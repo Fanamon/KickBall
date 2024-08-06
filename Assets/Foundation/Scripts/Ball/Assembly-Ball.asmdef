@@ -1,0 +1,17 @@
+{
+    "name": "Assembly-Ball",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7bd9943b37e802745be56915ba6ac4ca",
+        "GUID:656198e2a78f58a46a3bbc54311cc32f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

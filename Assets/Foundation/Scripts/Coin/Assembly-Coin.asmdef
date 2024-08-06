@@ -1,0 +1,16 @@
+{
+    "name": "Assembly-Coin",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e92f3bf44a8bbc4f8e8fed01997b879"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

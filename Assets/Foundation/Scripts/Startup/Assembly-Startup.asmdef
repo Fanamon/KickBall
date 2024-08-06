@@ -1,0 +1,21 @@
+{
+    "name": "Assembly-Startup",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e92f3bf44a8bbc4f8e8fed01997b879",
+        "GUID:e15907d46fef6814fbe85a4812d8f41e",
+        "GUID:e546ceab914a43e43b154bf990630e1f",
+        "GUID:7bd9943b37e802745be56915ba6ac4ca",
+        "GUID:0f586d439607b8f40b40fb1b74ac071a",
+        "GUID:db900593cc7eb344ca52a9135b9414de"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
